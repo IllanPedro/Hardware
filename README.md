@@ -1,0 +1,4 @@
+Hardware
+========
+
+Informacion de hardware
