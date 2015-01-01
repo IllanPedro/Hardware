@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-enlazado con Emmanuel
-ultima modificacion
-=======
 enlazado con Emmanuel <casa>
->>>>>>> d3e2926c2b55b4bc993f27db03aada96a6241d6d
+
