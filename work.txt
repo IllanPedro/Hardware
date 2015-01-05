@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 enlazado con Emmanuel <SICOM> 
 enlazado con Pedro    <SICOM> 
+=======
+enlazado con Emmanuel <SICOM> :)
+enlazado con Pedro    <SICOM> :)
+>>>>>>> 7b3529bf6bb07ca1a678474ea901133b4c230152
