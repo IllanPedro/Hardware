@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 enlazado con Emmanuel <SICOM> 
 enlazado con Pedro    <SICOM> 
+=======
+enlazado con Emmanuel <SICOM> :)
+enlazado con Pedro    <SICOM> :()
+cambio para rama de prueba
+>>>>>>> prueba
 
